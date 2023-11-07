@@ -3,7 +3,7 @@
 <!--
 **abcvav/abcvav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://github.com/abcvav/abcvav/stargazers"><img src="https://img.shields.io/github/stars/abcvav/abcvav.svg?logo=github"></a>
+<p><a href="https://github.com/abcvav/abcvav/stargazers"><img src="https://img.shields.io/github/stars/abcvav/abcvav.svg?logo=github"></a></p>
 
 Here are some ideas to get you started:
 
